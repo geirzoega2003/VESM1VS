@@ -7,6 +7,7 @@ HELSTU ATRIÐI OG VANDAMÁL: svo að allt myndi virka vel hjá mér þurfti ég 
 
 VERKFERLIÐ: ég notaði tinkercad og github til þess að vinna þetta verkefni og svo notaði ég fullt af verkfærum í tinkercad sjálfu. eftir að hafa unnið þetta var verkefnið fært yfir á skólavörðuholt í 3d prentun svo ég fæ það úr tölvu yfir í mínar eigin hendur.
 
+lengdbox.png
 
 
 
