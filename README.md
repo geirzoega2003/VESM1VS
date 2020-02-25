@@ -9,7 +9,7 @@ VERKFERLIÐ: ég notaði tinkercad og github til þess að vinna þetta verkefni
 
 
 
-
+https://github.com/geirzoega2003/VESM1VS/blob/master/lengd%20box2.png
 
  
  
