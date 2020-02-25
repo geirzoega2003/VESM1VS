@@ -8,6 +8,7 @@ HELSTU ATRIÐI OG VANDAMÁL: svo að allt myndi virka vel hjá mér þurfti ég 
 VERKFERLIÐ: ég notaði tinkercad og github til þess að vinna þetta verkefni og svo notaði ég fullt af verkfærum í tinkercad sjálfu. eftir að hafa unnið þetta var verkefnið fært yfir á skólavörðuholt í 3d prentun svo ég fæ það úr tölvu yfir í mínar eigin hendur.
 
 hérna er link af boxinu:
+
 https://github.com/geirzoega2003/VESM1VS/blob/master/lengdbox.png
 https://github.com/geirzoega2003/VESM1VS/blob/master/lengd%20box2.png
 
